@@ -1,0 +1,29 @@
+h2 {
+    font-family:"Arial Narrow";
+    font-size: 1.2em;
+    color: #94b767;
+    padding:5px 0px 0px 7px;
+    background:url(verh.gif) no-repeat left 
+    top;
+    }
+    .b1{
+        width:424px; 
+        background:url(telo.gif) repeat-y;
+        
+    }
+    .b2{
+        width:414px;
+        font-family: Tahoma; 
+        font-size: 0.8em;
+        text-indent:7%;
+        margin:0;
+        padding:0px 5px 0px 5px;
+    }
+    .b3 {
+        font-family:Tahoma;
+        font-size: 0.8em;
+        text-indent:7%;
+        background:url(niz.gif) no-repeat left bottom;
+        margin:0;
+        padding:5px 5px 15px 5px;
+       }
